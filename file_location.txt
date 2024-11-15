@@ -1,0 +1,7 @@
+
+file location:
+https://www.kaggle.com/competitions/recognizing-faces-in-the-wild/data
+
+files needed:
+	- train.zip
+	- test.zip
