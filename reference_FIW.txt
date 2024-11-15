@@ -1,0 +1,8 @@
+References:
+
+DeepFace
+https://github.com/serengil/deepface/tree/master
+
+Kaggle:
+https://www.kaggle.com/code/bachrr/smile-rfw-eda
+https://www.kaggle.com/code/serengil/deepface-framework-for-python
